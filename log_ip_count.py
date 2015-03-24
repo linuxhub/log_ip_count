@@ -5,7 +5,7 @@
 
 import re,sys
 
-data_file = 'D:/script/python/other/20150312_www.kuaiyouxi.com_5.log'
+data_file = '/data/log/nginx.log'
 
 
 #读文件数据  
